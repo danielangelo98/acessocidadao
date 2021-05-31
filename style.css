@@ -5,3 +5,11 @@ body{
 .row{
 	padding: 10px;
 }
+
+a:link {
+ text-decoration: none;
+}
+
+a:hover {
+ text-decoration: underline;
+}
